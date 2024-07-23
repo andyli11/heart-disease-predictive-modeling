@@ -63,7 +63,10 @@ Based on the comparison, the Naive Bayes classifier demonstrates superior perfor
 
 ## Next Steps
 
-To further enhance the project, several additional steps can be taken. First, experimenting with more advanced machine learning models such as Random Forests, Gradient Boosting Machines (GBM), and XGBoost can provide insights into their performance compared to the current models. Additionally, deep learning approaches using neural networks, specifically feedforward neural networks or more sophisticated architectures like convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can be explored for potentially better accuracy and predictive power. Moreover, conducting hyperparameter tuning using techniques such as grid search or randomized search can optimize model performance. Finally, implementing cross-validation will ensure that the results are robust and generalizable to new, unseen data.
+- Experimenting with more advanced machine learning models such as Random Forests, Gradient Boosting Machines (GBM), and XGBoost can provide insights into their performance compared to the current models.
+- Deep learning approaches using neural networks, specifically feedforward neural networks or more sophisticated architectures like convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can be explored for possibly better accuracy and predictive power.
+- Conducting hyperparameter tuning using techniques such as grid search or randomized search can optimize model performance.
+- Implementing cross-validation will ensure that the results are robust and generalizable to new, unseen data.
 
 ## Installation
 
